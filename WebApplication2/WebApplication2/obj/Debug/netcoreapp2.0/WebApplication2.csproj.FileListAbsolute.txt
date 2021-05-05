@@ -1,0 +1,16 @@
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\appsettings.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\bower.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojAssemblyReference.cache
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
+D:\web\asp-dot-net-core-in-action-master\chapter02\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.genruntimeconfig.cache
